@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504033928 source:f:\naukac\kernighanritchie\kar\r1\ftoc\main.c
+	<stdio.h>
+	<stdlib.h>
+
